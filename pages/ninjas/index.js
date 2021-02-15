@@ -1,4 +1,4 @@
-import styles from '../../styles/ninjas.module.css';
+import styles from './Ninjas.module.css';
 import Link from 'next/link';
 
 const Ninjas = ({ ninjas }) => {
